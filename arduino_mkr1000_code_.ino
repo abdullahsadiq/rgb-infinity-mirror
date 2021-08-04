@@ -1,3 +1,7 @@
+/*
+Upload this code to the Arduino MKR1000, and connect everything according to the connection diagram (after uploading the code to the XMC2Go)
+*/
+
 float deg;
 int pinRed = 2;
 int pinGreen = 3;

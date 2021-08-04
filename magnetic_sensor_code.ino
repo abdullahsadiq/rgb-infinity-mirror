@@ -1,3 +1,7 @@
+/*
+Upload this to the 3D Magnetic sensor after installing the board in the Arduino IDE
+*/
+
 #include <Tle493d_w2b6.h>
 const float pi = (22.0 / 7.0);
 bool switchPressed;
